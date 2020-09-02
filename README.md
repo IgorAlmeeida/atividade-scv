@@ -9,4 +9,8 @@
     <td>Rodrigo Andrade</td>
     <td>Maceio</td>
   </tr>
+  <tr>
+    <td>Igor Almeida</td>
+    <td>Catende</td>
+  </tr>
 </table>
